@@ -1,2 +1,3 @@
-# curso-web-moderno-js2020
- pasta basica pra pratica das aulas dos curso da udemy web-moderno-js2020
+# Web Moderno com JavaScript 2020 COMPLETO + Projetos
+
+Para mais informações acessar https://www.cod3r.com.br/courses/web-moderno
